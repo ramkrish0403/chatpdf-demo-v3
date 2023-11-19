@@ -9,8 +9,6 @@
 			"version": "3.10.13"
 			// "version": "3.12.0"
 		}
-		// "ghcr.io/itsmechlark/features/postgresql:1": {},
-		// "ghcr.io/robbert229/devcontainer-features/postgresql-client:1": {}
 	},
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
